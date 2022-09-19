@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNUFsFy9fAevGrsG4LFjjt0b+7ur46bX3GI9tIym8QxGMMqsghWPbn9rRUX5KrtGOg6u5NXo4o2tWLsfEA95NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Bureau\\Essence-Diesel\\Essence-Diesel\\Essence-Diesel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
